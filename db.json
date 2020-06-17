@@ -1,7 +1,6 @@
 {
-  "1": {
+  1: {
     "name": "bulbasaur",
-    "id": 1,
     "species": {
       "name": "bulbasaur",
       "url": "https://pokeapi.co/api/v2/pokemon-species/1/",
