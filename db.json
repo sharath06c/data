@@ -1,7 +1,8 @@
 {
-  1: {
+  "1": {
     "name": "bulbasaur",
     "species": {
+      "id":1,
       "name": "bulbasaur",
       "url": "https://pokeapi.co/api/v2/pokemon-species/1/",
     },
@@ -38,7 +39,7 @@
       "front_shiny_female": "null",
     },
   },
-  2: {
+  "2": {
     "name": "ivysaur",
     "id": 2,
     "species": {
